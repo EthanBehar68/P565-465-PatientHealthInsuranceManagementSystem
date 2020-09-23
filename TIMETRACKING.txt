@@ -1,0 +1,57 @@
+Project Function, Deliverable, or Component Name
+Responsible Person
+Man-Hours work this week + Type of work
+    Types of work:
+        Proj Plan - Project Planning - Number of hours spent developing, documenting, and reviewing plans for the project
+        Req Dev - Requirements Development - Number of hours spent developing, documenting, and reviewing the customer needs
+        Design - Design - Number of hours spent developing, documenting, and reviewing  system and component design
+        Impl - Implementation - Number of hours spent actually coding, peer reviews, and/or unit testing
+        Test - Test - Number of hours spent planning and executing the test
+        Deliv - Delivery - Number of hours spent packaging the product and/or developing the user manual
+        Proj Mgmt - Project Management - Number of hours spent developing weekly status, scheduling meetings, etc
+        Chng Ctrl - Change Control - Number of  hours spent implementing and documenting changes to the baselined artifacts
+Estimated Component Percent Complete
+
+Time examples:  .25 hrs = 15minutes
+                .5 hrs = 30minutes
+                .75 hrs = 45minutes
+                1.0 hrs = 60minutes
+                1.25 hrs = 1hr 15minutes
+                1.5 hrs = 1hr 30minutes
+                1.75 hrs = 1hr 45minutes
+                2.0 hrs = 2hrs
+
+Examples:
+Task 132, Jack Joliet, 3hrs Impl, 25%
+Design Model, Ethan Behar, 1.5hrs Design, 100%
+DB Modeling, Michael Bouvette, 2 hrs, Design, 100%
+Task 131, Micahel Schmitz, 1hrs, Impl, 15%
+
+Week of 9/14
+Github Setup, Ethan Behar, .25hrs Proj Mgmt, --(Yea, I completely ignored this column, my bad)
+Jira User Stories and Spint 1 Tasks, Ethan Behar, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
+Meeting Minutes, Ethan Behar, .25hrs Req Dev, --(Yea, I completely ignored this column, my bad)
+Project Plan: Purpose of Project, Objectives & Deliverables, Scope Control, Approach, Michael Bouvette, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
+Project Plan: Communication Plan, Project Budget, Risk Plan, Michael Schmitz, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
+Project Plan: Timeline, Stakeholder Roles & Responsibilities, Josh Joliet, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
+Week of 9/21
+Pitch Presentation: Initial/Design Work, Ethan Behar, Proj Plan 3.0hrs, 75%
+Pitch Presentation: Initial, Michael Bouvette, Proj Plan 2.0hrs, 75%
+Pitch Presentation: Initial, Michael Schmitz, Proj Plan 2.0hrs, 75%
+Pitch Presentation: Practice/Touch ups, Proj Plan 3.0hrs, 100%
+Pitch Presentation: Edit/Touchups, Jack Joliet, Project Plan X.Xhrs, 90% (NEED JACK'S TIME!)
+Project Kickoff, Ethan Behar, Impl 2.0hrs, 0%
+Project Kickoff, Michael Bouvette, Impl 2.0hrs, 0%
+Project Kickoff, Michael Schmitz, Impl 2.0hrs, 0%
+Project Kickoff, Jack Joliet, Impl 2.0hrs, 0%
+Week of 9/28
+Week of 10/5
+Week of 10/12
+Week of 10/19
+Week of 10/26
+Week of 11/2
+Week of 11/9
+Week of 11/16
+Week of 11/23
+Week of 11/30
+Week of 12/7 (Actually think we are done at this point)
