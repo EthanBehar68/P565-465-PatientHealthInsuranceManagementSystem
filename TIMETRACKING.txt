@@ -33,18 +33,21 @@ Jira User Stories and Spint 1 Tasks, Ethan Behar, 1.0hrs Proj Plan, --(Yea, I co
 Meeting Minutes, Ethan Behar, .25hrs Req Dev, --(Yea, I completely ignored this column, my bad)
 Project Plan: Purpose of Project, Objectives & Deliverables, Scope Control, Approach, Michael Bouvette, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
 Project Plan: Communication Plan, Project Budget, Risk Plan, Michael Schmitz, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
-Project Plan: Timeline, Stakeholder Roles & Responsibilities, Josh Joliet, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
+Project Plan: Timeline, Stakeholder Roles & Responsibilities, Jack Joliet, 1.0hrs Proj Plan, --(Yea, I completely ignored this column, my bad)
 Week of 9/21
 Pitch Presentation: Initial/Design Work, Ethan Behar, Proj Plan 3.0hrs, 75%
 Pitch Presentation: Initial, Michael Bouvette, Proj Plan 2.0hrs, 75%
 Pitch Presentation: Initial, Michael Schmitz, Proj Plan 2.0hrs, 75%
 Pitch Presentation: Practice/Touch ups, Proj Plan 3.0hrs, 100%
-Pitch Presentation: Edit/Touchups, Jack Joliet, Project Plan X.Xhrs, 90% (NEED JACK'S TIME!)
+Pitch Presentation: Edit/Touchups, Jack Joliet, Project Plan 1.0hrs, 90%
 Project Kickoff, Ethan Behar, Impl 2.0hrs, 0%
 Project Kickoff, Michael Bouvette, Impl 2.0hrs, 0%
 Project Kickoff, Michael Schmitz, Impl 2.0hrs, 0%
 Project Kickoff, Jack Joliet, Impl 2.0hrs, 0%
 Learning NodeJS Backend, Ethan Behar, Impl, 13hrs, 100%
+Building the Navbar, Jack Joliet, Impl, 3hrs, 100%
+Building the Footer, Jack Joliet, Impl, 0.25hrs, 100%
+Building the Landing Page, Jack Joliet, Impl, 1hrs, 100%
 ###Week of 9/28
 ###Week of 10/5
 ###Week of 10/12
