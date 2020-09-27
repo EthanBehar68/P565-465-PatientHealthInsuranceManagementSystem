@@ -44,7 +44,7 @@ Project Kickoff, Ethan Behar, Impl 2.0hrs, 0%
 Project Kickoff, Michael Bouvette, Impl 2.0hrs, 0%
 Project Kickoff, Michael Schmitz, Impl 2.0hrs, 0%
 Project Kickoff, Jack Joliet, Impl 2.0hrs, 0%
-Learning NodeJS Backend, Ethan Behar, Impl, 13hrs, 0%
+Learning NodeJS Backend, Ethan Behar, Impl, 13hrs, 100%
 ###Week of 9/28
 ###Week of 10/5
 ###Week of 10/12
