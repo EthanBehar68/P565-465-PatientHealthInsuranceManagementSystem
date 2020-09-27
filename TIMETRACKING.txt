@@ -44,14 +44,15 @@ Project Kickoff, Ethan Behar, Impl 2.0hrs, 0%
 Project Kickoff, Michael Bouvette, Impl 2.0hrs, 0%
 Project Kickoff, Michael Schmitz, Impl 2.0hrs, 0%
 Project Kickoff, Jack Joliet, Impl 2.0hrs, 0%
-Week of 9/28
-Week of 10/5
-Week of 10/12
-Week of 10/19
-Week of 10/26
-Week of 11/2
-Week of 11/9
-Week of 11/16
-Week of 11/23
-Week of 11/30
-Week of 12/7 (Actually think we are done at this point)
+Learning NodeJS Backend, Ethan Behar, Impl, 13hrs, 0%
+###Week of 9/28
+###Week of 10/5
+###Week of 10/12
+###Week of 10/19
+###Week of 10/26
+###Week of 11/2
+###Week of 11/9
+###Week of 11/16
+###Week of 11/23
+###Week of 11/30
+###Week of 12/7 (Actually think we are done at this point)
