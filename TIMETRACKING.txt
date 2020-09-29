@@ -48,7 +48,8 @@ Learning NodeJS Backend, Ethan Behar, Impl, 13hrs, 100%
 Building the Navbar, Jack Joliet, Impl, 3hrs, 100%
 Building the Footer, Jack Joliet, Impl, 0.25hrs, 100%
 Building the Landing Page, Jack Joliet, Impl, 1hrs, 100%
-###Week of 9/28
+Week of 9/28
+Building login/backend and user mdoels, Ethan Behar, Impl, 1hr, 15%
 ###Week of 10/5
 ###Week of 10/12
 ###Week of 10/19
