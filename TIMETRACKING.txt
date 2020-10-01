@@ -50,6 +50,7 @@ Building the Footer, Jack Joliet, Impl, 0.25hrs, 100%
 Building the Landing Page, Jack Joliet, Impl, 1hrs, 100%
 Week of 9/28
 Building login/backend and user mdoels, Ethan Behar, Impl, 1hr, 15%
+Working on Software Design Doc, Ethan Behar, Design, 3hrs, 75%
 ###Week of 10/5
 ###Week of 10/12
 ###Week of 10/19
