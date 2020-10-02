@@ -54,6 +54,7 @@ Working on Software Design Doc, Ethan Behar, Design, 3hrs, 50%
 Working on Software Design Doc, Ethan Behar, Design, 3.5hrs, 100%
 Working on Software Test Plan Design Doc, Ethan Behar, Design, 1hrs, 50%
 Working on backend login/register, Ethan Behar, Impl, 4hr, 80%
+Working on Software Test Plan Design Doc, Ethan Behar, Design, 0.5hrs, 100%
 ###Week of 10/5
 ###Week of 10/12
 ###Week of 10/19
