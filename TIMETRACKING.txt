@@ -49,23 +49,23 @@ Building the Navbar, Jack Joliet, Impl, 3hrs, 100%
 Building the Footer, Jack Joliet, Impl, 0.25hrs, 100%
 Building the Landing Page, Jack Joliet, Impl, 1hrs, 100%
 Week of 9/28
-Building login/backend and user mdoels, Ethan Behar, Impl, 1hr, 15%
+Building login/backend and user models, Ethan Behar, Impl, 1hr, 15%
+Building login/backend and user models, Michael Bouvette, Impl, 1hr, 15%
 Working on Software Design Doc, Ethan Behar, Design, 3hrs, 50%
 Working on Software Design Doc, Ethan Behar, Design, 3.5hrs, 100%
 Working on Software Test Plan Design Doc, Ethan Behar, Design, 1hrs, 50%
-Working on backend login/register, Ethan Behar, Impl, 4hr, 80%
 Working on Software Test Plan Design Doc, Ethan Behar, Design, 0.5hrs, 100%
-Working on Software Design Doc, Michael Schmitz, Design, 1hr, 100%
+Working on backend login/register, Ethan Behar, Impl, 4hr, 80%
 Working on backend login/register, Ethan Behar, Impl, 3hr, 100%
-Learning frontend and backend implementation from Jack, Impl/Design, Michael Schmitz 1.5hr, 90%
-Building login/backend and user mdoels, Michael Bouvette, Impl, 1hr, 15%
-Learning frontend and backend implementation from Jack, Impl/Design, Michael Bouvette 1.5hr, 90%
-Creation of Patient, Insurance, and Doctor Databases, Impl/Design, Michael Bouvette 30mins, 100%
-Research on different React/Node.JS, Research, 4hrs, 100%
-Udemy Learning Course, Michael Schmitz, 3hrs, 20%
-
-
-
+Working on Software Design Doc, Michael Schmitz, Design, 1hr, 100%
+Learning frontend and backend integration from Jack, Impl/Design, Michael Schmitz 1.5hr, 90%
+Learning frontend and backend integration from Jack, Impl/Design, Michael Bouvette 1.5hr, 90%
+Learning frontend and backend integration from Jack, Impl/Design, Ethan Behar 1.5hr, 90%
+frontend and backend integration, Jack Joliet, Impl/Design, 1.5hr, 90%
+Creation of Patient, Insurance, and Doctor Databases, Impl/Design, Michael Bouvette 0.5hrs, 100%
+Research on different React/Node.JS, Impl, 4hrs, 100%
+Udemy Learning Course, Michael Schmitz, Impl 3hrs, 20%
+Project Management, Ethan Behar Proj Mgmt, 1.0hr, 100
 ###Week of 10/5
 ###Week of 10/12
 ###Week of 10/19
