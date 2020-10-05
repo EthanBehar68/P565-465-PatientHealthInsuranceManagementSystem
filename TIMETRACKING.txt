@@ -57,7 +57,13 @@ Working on backend login/register, Ethan Behar, Impl, 4hr, 80%
 Working on Software Test Plan Design Doc, Ethan Behar, Design, 0.5hrs, 100%
 Working on Software Design Doc, Michael Schmitz, Design, 1hr, 100%
 Working on backend login/register, Ethan Behar, Impl, 3hr, 100%
-Learning frontend and backend implimitation from Jack, Impl/Design, Michael Schmitz 1.5hr, 90%
+Learning frontend and backend implementation from Jack, Impl/Design, Michael Schmitz 1.5hr, 90%
+
+Building login/backend and user mdoels, Michael Bouvette, Impl, 1hr, 15%
+Learning frontend and backend implementation from Jack, Impl/Design, Michael Bouvette 1.5hr, 90%
+Creation of Patient, Insurance, and Doctor Databases, Impl/Design, Michael Bouvette 30mins, 100%
+Research on different React/Node.JS, Research, 4hrs, 100%
+
 
 ###Week of 10/5
 ###Week of 10/12
