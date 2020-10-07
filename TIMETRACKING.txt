@@ -67,6 +67,7 @@ Research on different React/Node.JS, Impl, 4hrs, 100%
 Udemy Learning Course, Michael Schmitz, Impl 3hrs, 20%
 Project Management, Ethan Behar Proj Mgmt, 1.0hr, 100
 ###Week of 10/5
+Backend Password Recovery, Ethan Behar, Impl, 1.5hrs, 100%
 ###Week of 10/12
 ###Week of 10/19
 ###Week of 10/26
