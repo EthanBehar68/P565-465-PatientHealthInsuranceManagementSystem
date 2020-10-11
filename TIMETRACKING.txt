@@ -74,7 +74,9 @@ Backend 2FA, Ethan Behar, Impl, .75hrs, 99%
 Updating test doc with duo auth tests, Ethan Behar, Design, 0.25hrs, 100%
 Backend Patient Details for Dashboard/Postman Tests, Ethan Behar, Impl, 4.5hrs, 30%
 Updating test docs, Ethan Behar, Design, 0.5hrs, 100%
+Udemy Learning Modules, Michael Schmitz, 2 hrs, 30%
 Duo auth, Jack Joliet, Impl, 2.0hr, 25%
+Code Review, Michael Schmitz, 1hrs, 100%
 ###Week of 10/12
 ###Week of 10/19
 ###Week of 10/26
