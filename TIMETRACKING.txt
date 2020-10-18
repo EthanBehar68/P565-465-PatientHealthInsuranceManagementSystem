@@ -78,12 +78,17 @@ Udemy Learning Modules, Michael Schmitz, 2 hrs, 30%
 Duo auth, Jack Joliet, Impl, 5.0hr, 100%
 Code Review, Michael Schmitz, Impl, 1hrs, 100%
 Show Mike Schmitz back end code, Ethan Behar, Impl 2hrs, 100%
+Learning from Ethan on Back End, Michael Schmitz, Impl, 2hrs, 100%
+Working on updating insurance user information, Michael Schmitz, Impl, 2hrs, 50%
+Udemy learning modules, Michael Schmitz, 2hrs, 40%
 Fighting a bug that wasn't a bug I was just using the wrong url, Ethan Behar, Impl 1.25hrs, 100%
 Working on Patient Dashboard back end, Ethan Behar, Impl, 9.75hrs, 50%
 Updating design/testing docs, Ethan Behar, Design, 2.0hrs, 100%
 Google OAuth, Jack Joliet, Impl, 5.0hr, 100%
 Deployment, Jack Joliet, Impl, 1.0hr, 100%,
 Patient Onboarding, Jack Joliet, 5.0hr, 100%
+Insurance Dashboard, Michael Schmitz, Impl, 4hrs, 30%
+
 ###Week of 10/12
 ###Week of 10/19
 ###Week of 10/26
