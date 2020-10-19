@@ -77,6 +77,7 @@ Updating test docs, Ethan Behar, Design, 0.5hrs, 100%
 Udemy Learning Modules, Michael Schmitz, 2 hrs, 30%
 Duo auth, Jack Joliet, Impl, 5.0hr, 100%
 Code Review, Michael Schmitz, Impl, 1hrs, 100%
+###Week of 10/12
 Show Mike Schmitz back end code, Ethan Behar, Impl 2hrs, 100%
 Learning from Ethan on Back End, Michael Schmitz, Impl, 2hrs, 100%
 Working on updating insurance user information, Michael Schmitz, Impl, 2hrs, 50%
@@ -91,9 +92,9 @@ Insurance Dashboard, Michael Schmitz, Impl, 4hrs, 30%
 Dashboard Development, Michael Bouvette, Research/Implementation 5hrs, Research = 100%, Implementation = 0% (Could not get login working on my server proxy)
 Front End, Michael Bouvette, Research on front end development (udemy/Youtube), 7hrs, 100%
 Back End, Michael Bouvette, Research on back end development (udemy/youtube), 2hrs, 30%
-
-###Week of 10/12
 ###Week of 10/19
+
+
 ###Week of 10/26
 ###Week of 11/2
 ###Week of 11/9
