@@ -92,8 +92,12 @@ Insurance Dashboard, Michael Schmitz, Impl, 4hrs, 30%
 Dashboard Development, Michael Bouvette, Research/Implementation 5hrs, Research = 100%, Implementation = 0% (Could not get login working on my server proxy)
 Front End, Michael Bouvette, Research on front end development (udemy/Youtube), 7hrs, 100%
 Back End, Michael Bouvette, Research on back end development (udemy/youtube), 2hrs, 30%
-Tests/Frontend Hook up for account detail saving, Ethan Behar, 3hrs Impl, 100%
+Tests for patient dashboard details/onboarding/Frontend Hook up for account detail saving, Ethan Behar, 3hrs Impl, 100%
+
+
+
 ###Week of 10/19
+
 
 
 ###Week of 10/26
