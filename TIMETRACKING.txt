@@ -86,8 +86,11 @@ Working on Patient Dashboard back end, Ethan Behar, Impl, 9.75hrs, 50%
 Updating design/testing docs, Ethan Behar, Design, 2.0hrs, 100%
 Google OAuth, Jack Joliet, Impl, 5.0hr, 100%
 Deployment, Jack Joliet, Impl, 1.0hr, 100%,
-Patient Onboarding, Jack Joliet, 5.0hr, 100%
+Patient Onboarding, Jack Joliet, 5.0hr, 100% 
 Insurance Dashboard, Michael Schmitz, Impl, 4hrs, 30%
+Dashboard Development, Michael Bouvette, Research/Implementation 5hrs, Research = 100%, Implementation = 0% (Could not get login working on my server proxy)
+Front End, Michael Bouvette, Research on front end development (udemy/Youtube), 7hrs, 100%
+Back End, Michael Bouvette, Research on back end development (udemy/youtube), 2hrs, 30%
 
 ###Week of 10/12
 ###Week of 10/19
