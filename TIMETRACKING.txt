@@ -97,7 +97,10 @@ Tests for patient dashboard details/onboarding/Frontend Hook up for account deta
 
 
 ###Week of 10/19
-
+Doctor and Insurance Onboarding, Ethan Behar, Impl, 3.25hrs, 100%
+Fixes for Doctor/Insurance Onboarding and Getters for Patient/Doctors, Ethan Behar Impl, 3.5hrs, 100%
+Updating Test/Design Docs, Ethan Behar, Design, 1.5hrs, 100%
+Implementing Insurnace Plan creation API, Ethan Behar, Impl, 1hr, 90%
 
 
 ###Week of 10/26
