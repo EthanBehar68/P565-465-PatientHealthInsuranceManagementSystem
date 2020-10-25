@@ -105,6 +105,9 @@ Testing Insurance Plan, Ethan Behar, Design, 1.75hrs, 100%
 Doctor Search Need Feedback, Ethan Behar, Implement, 2.5hrs, 50%
 Udemy learning course, Michael Schmitz, 2hrs, 45%
 Insurance Dashboard, Michael Schmitz, Impl, 1hr
+Onboarding Doctor, Jack Joliet, Impl, 4hr
+Onboarding Insurance, Jack Joliet, Impl, 2hr
+Bug fixes, Jack Joliet, Impl, 1hr
 
 ###Week of 10/26
 ###Week of 11/2
