@@ -103,6 +103,8 @@ Updating Test/Design Docs, Ethan Behar, Design, 1.5hrs, 100%
 Implementing Insurnace Plan creation API, Ethan Behar, Impl, 1hr, 90%
 Testing Insurance Plan, Ethan Behar, Design, 1.75hrs, 100%
 Doctor Search Need Feedback, Ethan Behar, Implement, 2.5hrs, 50%
+Udemy learning course, Michael Schmitz, 2hrs, 45%
+Insurance Dashboard, Michael Schmitz, Impl, 1hr
 
 ###Week of 10/26
 ###Week of 11/2
