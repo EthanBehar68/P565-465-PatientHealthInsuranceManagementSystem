@@ -93,9 +93,6 @@ Dashboard Development, Michael Bouvette, Research/Implementation 5hrs, Research 
 Front End, Michael Bouvette, Research on front end development (udemy/Youtube), 7hrs, 100%
 Back End, Michael Bouvette, Research on back end development (udemy/youtube), 2hrs, 30%
 Tests for patient dashboard details/onboarding/Frontend Hook up for account detail saving, Ethan Behar, 3hrs Impl, 100%
-
-
-
 ###Week of 10/19
 Doctor and Insurance Onboarding, Ethan Behar, Impl, 3.25hrs, 100%
 Fixes for Doctor/Insurance Onboarding and Getters for Patient/Doctors, Ethan Behar Impl, 3.5hrs, 100%
@@ -108,8 +105,11 @@ Insurance Dashboard, Michael Schmitz, Impl, 1hr
 Onboarding Doctor, Jack Joliet, Impl, 4hr
 Onboarding Insurance, Jack Joliet, Impl, 2hr
 Bug fixes, Jack Joliet, Impl, 1hr
-
 ###Week of 10/26
+
+
+
+
 ###Week of 11/2
 ###Week of 11/9
 ###Week of 11/16
