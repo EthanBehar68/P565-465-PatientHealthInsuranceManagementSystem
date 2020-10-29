@@ -106,8 +106,10 @@ Onboarding Doctor, Jack Joliet, Impl, 4hr
 Onboarding Insurance, Jack Joliet, Impl, 2hr
 Bug fixes, Jack Joliet, Impl, 1hr
 ###Week of 10/26
-
-
+Geocoding address backend, Ethan Behar, Impl, .75hrs 100%
+Starting appointment booking + Code Review with Mike S., Ethan Behar, Impl, 1.5hrs, 25%
+Appointmnet booking- create and getting, Ethan Behar, Impl, 7hrs, 100%
+Code Review with Mike S., Ethan Behar, Impl, 1.5hrs 100%
 
 
 ###Week of 11/2
