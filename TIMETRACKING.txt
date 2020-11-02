@@ -110,18 +110,16 @@ Geocoding address backend, Ethan Behar, Impl, .75hrs 100%
 Starting appointment booking + Code Review with Mike S., Ethan Behar, Impl, 1.5hrs, 25%
 Appointmnet booking- create and getting, Ethan Behar, Impl, 7hrs, 100%
 Code Review with Mike S., Ethan Behar, Impl, 1.5hrs 100%
-<<<<<<< .merge_file_a01444
 Preliminary Insurance Dashboard Work, Michael Bouvette, Implementation, 7hrs, 100%
 Material UI Meeting with Jack J., Michael Bouvette, Implementation, 1hr, 100%
 Review on Props and States (Redux), Michael Bouvette, Study, 3hrs, 100%
-
-=======
 Overlooking/learning from changes, Michael Schmitz 2hrs, 100%
 Subscription with email w/ Ethan, Michael Schmitz, 1.5hrs, 100%
 Patient dash calls, Michael Schmitz, 2hrs, impl, 50%
 Udemy, Michael Schmitz, 2hrs, 60%
->>>>>>> .merge_file_a74356
-
+Search functionality, Jack Joliet, Impl, 6hrs, 100%
+Google Maps with doctor locations, Jack Joliet, Impl, 3hrs, 100%
+Doctor detail view, Jack Joliet, Impl, 2hrs, 100%
 
 ###Week of 11/2
 ###Week of 11/9
