@@ -124,6 +124,11 @@ Bug Finding w/ Michael Schmitz, Michael Bouvette, Testing, 2hrs, 100%
 
 
 ###Week of 11/2
+Finishng up API's on backend patient, Michael Schmitz, 3hrs, Impl, 100%
+Team meeting, Michael Schmitz, 1hr, 100%
+Adding validatin/cleaning up code with Ethan, Michael Schmitz, 2hrs, 100%
+Planning next weeks workload/criteria with Ethan, Michael Schmitz, 1hrs, 100%
+Finding bugs before look through w/ Adeel, Michael Schmitz, 1hrs, 100%
 
 
 
