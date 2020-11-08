@@ -120,6 +120,9 @@ Udemy, Michael Schmitz, 2hrs, 60%
 Search functionality, Jack Joliet, Impl, 6hrs, 100%
 Google Maps with doctor locations, Jack Joliet, Impl, 3hrs, 100%
 Doctor detail view, Jack Joliet, Impl, 2hrs, 100%
+Bug Finding w/ Michael Schmitz, Michael Bouvette, Testing, 2hrs, 100%
+
+
 ###Week of 11/2
 
 
