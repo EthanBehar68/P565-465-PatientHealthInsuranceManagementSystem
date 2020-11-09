@@ -120,16 +120,14 @@ Udemy, Michael Schmitz, 2hrs, 60%
 Search functionality, Jack Joliet, Impl, 6hrs, 100%
 Google Maps with doctor locations, Jack Joliet, Impl, 3hrs, 100%
 Doctor detail view, Jack Joliet, Impl, 2hrs, 100%
-Bug Finding w/ Michael Schmitz, Michael Bouvette, Testing, 2hrs, 100%
-
-
 ###Week of 11/2
+Bug Finding w/ Michael Schmitz, Michael Bouvette, Testing, 2hrs, 100%
 Finishng up API's on backend patient, Michael Schmitz, 3hrs, Impl, 100%
 Team meeting, Michael Schmitz, 1hr, 100%
 Adding validatin/cleaning up code with Ethan, Michael Schmitz, 2hrs, 100%
 Planning next weeks workload/criteria with Ethan, Michael Schmitz, 1hrs, 100%
 Finding bugs before look through w/ Adeel, Michael Schmitz, 1hrs, 100%
-
+Frontend small tasks/covid survey backend/working with Mike, Ethan Behar, 3.5hrs, Impl 100%
 
 
 
