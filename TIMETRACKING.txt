@@ -128,6 +128,9 @@ Adding validatin/cleaning up code with Ethan, Michael Schmitz, 2hrs, 100%
 Planning next weeks workload/criteria with Ethan, Michael Schmitz, 1hrs, 100%
 Finding bugs before look through w/ Adeel, Michael Schmitz, 1hrs, 100%
 Frontend small tasks/covid survey backend/working with Mike, Ethan Behar, 3.5hrs, Impl 100%
+Working on Insurance Pdf Functionality (Bug Encountered), Michael Bouvette, 4 hrs, Impl 100%
+
+
 
 
 
