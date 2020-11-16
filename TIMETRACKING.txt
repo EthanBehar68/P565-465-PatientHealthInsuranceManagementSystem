@@ -128,11 +128,9 @@ Adding validatin/cleaning up code with Ethan, Michael Schmitz, 2hrs, 100%
 Planning next weeks workload/criteria with Ethan, Michael Schmitz, 1hrs, 100%
 Finding bugs before look through w/ Adeel, Michael Schmitz, 1hrs, 100%
 Frontend small tasks/covid survey backend/working with Mike, Ethan Behar, 3.5hrs, Impl 100%
-
-
-
-
 ###Week of 11/9
+Housekeeping – tickets, remaining task compilation – other PM work, Ethan Behar, 9hrs, PM 100%
+Insurance backend related tasks – patients adding/removing/updating insurance – insurance subscribing and unsubscribing – creating emails – sending emails to subscribers – refactoring – starting insurance search – covid survey, Ethan Behar, 9hrs, Impl 75%
 ###Week of 11/16
 ###Week of 11/23
 ###Week of 11/30
