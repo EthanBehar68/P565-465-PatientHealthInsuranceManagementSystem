@@ -133,6 +133,9 @@ Frontend small tasks/covid survey backend/working with Mike, Ethan Behar, 3.5hrs
 
 
 ###Week of 11/9
+Insurance Plan Search for patient dashboard, Michael Schmitz, Impl, 2.5hrs, 60%
+Udemy, Michael Schmitz, 1hrs, 70%
+
 ###Week of 11/16
 ###Week of 11/23
 ###Week of 11/30
