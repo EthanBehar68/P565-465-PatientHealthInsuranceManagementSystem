@@ -134,6 +134,10 @@ Insurance backend related tasks – patients adding/removing/updating insurance 
 Insurance Plan Search for patient dashboard, Michael Schmitz, Impl, 2.5hrs, 60%
 Udemy, Michael Schmitz, 1hrs, 70%
 ###Week of 11/16
+
+
+
+
 ###Week of 11/23
 ###Week of 11/30
 ###Week of 12/7 (Actually think we are done at this point)
