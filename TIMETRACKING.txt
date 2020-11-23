@@ -134,6 +134,10 @@ Insurance backend related tasks – patients adding/removing/updating insurance 
 Insurance Plan Search for patient dashboard, Michael Schmitz, Impl, 2.5hrs, 60%
 Udemy, Michael Schmitz, 1hrs, 70%
 ###Week of 11/16
+Looking at Insurance Search and starting chat, Ethan Behar, Impl, 2.0hrs, 50%
+PM work tickets Ethan Behar, PM, 1.0hr, 100%
+Working on project documents Ethan Behar, PM, 3.5hrs, 50%
+Backend review for patients and testing, Ethan Behar, Impl 4hrs 100%
 
 
 
