@@ -138,10 +138,10 @@ Looking at Insurance Search and starting chat, Ethan Behar, Impl, 2.0hrs, 50%
 PM work tickets Ethan Behar, PM, 1.0hr, 100%
 Working on project documents Ethan Behar, PM, 3.5hrs, 50%
 Backend review for patients and testing, Ethan Behar, Impl 4hrs 100%
-
-
-
-
 ###Week of 11/23
 ###Week of 11/30
+Insurance dashboard building, Jack Joliet, Impl., 10hrs, 90%
+Doctor dashboard building, Jack Joliet, Impl., 15hrs, 90%
+Chat building, Jack Joliet, Impl., 10hrs, 95%
+Patient dashboard building, Impl., 5hrs, 95%
 ###Week of 12/7 (Actually think we are done at this point)
