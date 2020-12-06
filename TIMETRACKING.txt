@@ -168,21 +168,19 @@ Housekeeping – tickets, remaining task compilation – other PM work, Ethan Be
 Insurance backend related tasks – patients adding/removing/updating insurance – insurance subscribing and unsubscribing – creating emails – sending emails to subscribers – refactoring – starting insurance search – covid survey, Ethan Behar, 9hrs, Impl 75%
 Insurance Plan Search for patient dashboard, Michael Schmitz, Impl, 2.5hrs, 60%
 Udemy, Michael Schmitz, 1hrs, 70%
-
-
-
 ###Week of 11/16
 Looking at Insurance Search and starting chat, Ethan Behar, Impl, 2.0hrs, 50%
 PM work tickets Ethan Behar, PM, 1.0hr, 100%
-@@ -144,4 +147,5 @@ Insurance dashboard building, Jack Joliet, Impl., 10hrs, 90%
+Working on project documents Ethan Behar, PM, 3.5hrs, 50%
+Backend review for patients and testing, Ethan Behar, Impl 4hrs 100%
+###Week of 11/23
+###Week of 11/30
+Insurance dashboard building, Jack Joliet, Impl., 10hrs, 90%
 Doctor dashboard building, Jack Joliet, Impl., 15hrs, 90%
 Chat building, Jack Joliet, Impl., 10hrs, 95%
-Patient dashboard building, Impl., 5hrs, 95%
-Insurance File Upload, Michael Bouvette, Research, 3hrs, 100%
-Insurance File Upload, Michael Bouvette, Implementation, 3hrs, 100%
-
-
-###Week of 12/7 (Actually think we are done at this point)
+Patient dashboard building, Jack Joliet, Impl., 5hrs, 95%
 Final document preparation, Ethan Behar, PM, 3hrs, 100%
 Live site testing, Ethan Behar, 1 hrs, Testing, 1hrs, 100%
 Proof Reading Documents w/ Ethan Behar, Michael Bouvette, Documentation, 1hr, 100%
+Insurance File Upload, Michael Bouvette, Research, 3hrs, 100%
+Insurance File Upload, Michael Bouvette, Implementation, 3hrs, 100%
