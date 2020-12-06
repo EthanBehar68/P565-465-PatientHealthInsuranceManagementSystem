@@ -180,7 +180,7 @@ Doctor dashboard building, Jack Joliet, Impl., 15hrs, 90%
 Chat building, Jack Joliet, Impl., 10hrs, 95%
 Patient dashboard building, Jack Joliet, Impl., 5hrs, 95%
 Final document preparation, Ethan Behar, PM, 3hrs, 100%
-Live site testing, Ethan Behar, 1 hrs, Testing, 1hrs, 100%
+Live site testing, Ethan Behar, Testing, 1hrs, 100%
 Proof Reading Documents w/ Ethan Behar, Michael Bouvette, Documentation, 1hr, 100%
 Insurance File Upload, Michael Bouvette, Research, 3hrs, 100%
 Insurance File Upload, Michael Bouvette, Implementation, 3hrs, 100%
