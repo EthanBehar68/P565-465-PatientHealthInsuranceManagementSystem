@@ -178,8 +178,8 @@ PM work tickets Ethan Behar, PM, 1.0hr, 100%
 Doctor dashboard building, Jack Joliet, Impl., 15hrs, 90%
 Chat building, Jack Joliet, Impl., 10hrs, 95%
 Patient dashboard building, Impl., 5hrs, 95%
-Insurance File Upload, Research, 3hrs, 100%
-Insurance File Upload, Implementation, 3hrs, 100%
+Insurance File Upload, Michael Bouvette, Research, 3hrs, 100%
+Insurance File Upload, Michael Bouvette, Implementation, 3hrs, 100%
 
 
 ###Week of 12/7 (Actually think we are done at this point)
