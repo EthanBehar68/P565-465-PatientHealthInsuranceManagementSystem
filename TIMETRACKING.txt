@@ -184,3 +184,7 @@ Live site testing, Ethan Behar, Testing, 1hrs, 100%
 Proof Reading Documents w/ Ethan Behar, Michael Bouvette, Documentation, 1hr, 100%
 Insurance File Upload, Michael Bouvette, Research, 3hrs, 100%
 Insurance File Upload, Michael Bouvette, Implementation, 3hrs, 100%
+Testing Site, Michael Schmitz, 1hr, 100%
+Reviewing implementation of Chat,Michael Schmitz, 1hr, 100%
+Attemped to start chat w Ethan,Michael Schmitz, 2hrs, 50%
+Reviewing Documents/Slides that Ethan made, Michael Schmitz, 1hr, 100%
